@@ -1,6 +1,3 @@
-</head>
-<body>
-
     <header>
         <h1>Meu Site</h1>
     </header>
@@ -14,7 +11,3 @@
     <footer>
         <p>© 2026 Guilherme Almeida</p>
     </footer>
-
-
-</body>
-</html>
