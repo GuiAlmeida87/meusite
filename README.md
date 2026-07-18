@@ -3,9 +3,9 @@
     </header>
 
     <main>
-        <h2>Bem-vindo!</h2>
+        <h2>Menu</h2>
 
-        <p>Seja grato.</p>
+        <p>Seja bem vindo!</p>
     </main>
 
     <footer>
